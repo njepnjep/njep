@@ -32,8 +32,8 @@ logo = """ \x1b[1;97m█████████
  \x1b[1;97m█████████        \x1b[1;96m«----------✧----------»
  \x1b[1;97m ██ ██
  \x1b[1;97m╔════════════════════════════════════════════╗
- \x1b[1;97m║ \x1b[1;93m* \x1b[1;97mAuthor \x1b[1;91m: \x1b[1;96mJeffri Gantengg       \x1b[1;97m                   ║
- \x1b[1;97m║ \x1b[1;93m* \x1b[1;97mCumaRecode ekw \x1b[1;91m: \x1b[1;92m\x1b[44m NjepNjep \x1b[0m\x1b[1;97m║
+ \x1b[1;97m║ \x1b[1;93m* \x1b[1;97mRecode \x1b[1;91m: \x1b[1;96mJefffreyy :v      \x1b[1;97m                   ║
+ \x1b[1;97m║ \x1b[1;93m* \x1b[1;97mGunakan sing bijak ojo maruk \x1b[1;91m: \x1b[1;92m\x1b[44m NjepNjep \x1b[0m\x1b[1;97m║
  \x1b[1;97m╚════════════════════════════════════════════╝"""
  
  
